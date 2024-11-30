@@ -1,2 +1,5 @@
 # Ignore environment files
+
+.ipynb_checkpoints
 .env
+
